@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent Raja</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/vcart/image/upload/v1670509010/avatar-removebg-preview_iqzth5.png">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/vcart/image/upload/v1670509010/avatar-removebg-preview_iqzth5.png">
 
 
 <h3 align="left">Connect with me:</h3>
